@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "YBY",
+    "BYB"
+  ],
+  "key": {
+    "#":  "minecraft:green_wool",
+    "Y":  "minecraft:yellow_wool",
+    "B":  "minecraft:brown_wool"
+  },
+  "result": {
+    "id": "plushies:ocelot_plushie",
+    "count": 1
+  }
+}

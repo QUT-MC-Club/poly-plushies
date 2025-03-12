@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "LYL",
+    "YBY"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "Y":  "minecraft:yellow_wool",
+    "L":  "minecraft:light_blue_wool",
+    "B":  "minecraft:brown_wool"
+  },
+  "result": {
+    "id": "plushies:pufferfish_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#WL",
+    "OPO",
+    "O O"
+  ],
+  "key": {
+    "#":  "minecraft:bone_block",
+    "W":  "minecraft:white_wool",
+    "L":  "minecraft:leather",
+    "O":  "minecraft:orange_wool",
+    "P":  "minecraft:porkchop"
+  },
+  "result": {
+    "id": "plushies:hoglin_plushie",
+    "count": 1
+  }
+}

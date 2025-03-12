@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "B#B",
+    "#C#"
+  ],
+  "key": {
+    "#":  "minecraft:pink_wool",
+    "B":  "minecraft:black_wool",
+    "C":  "minecraft:carrot"
+  },
+  "result": {
+    "id": "plushies:pig_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "LLL",
+    "BGB"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "L":  "minecraft:light_gray_wool",
+    "B":  "minecraft:bone",
+    "G":  "minecraft:gray_wool"
+  },
+  "result": {
+    "id": "plushies:wolf_plushie",
+    "count": 1
+  }
+}

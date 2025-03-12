@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "LLL",
+    "LCL"
+  ],
+  "key": {
+    "#": "minecraft:white_wool",
+    "L": "minecraft:light_blue_wool",
+    "C": "minecraft:cookie"
+  },
+  "result": {
+    "id": "plushies:allay_plushie",
+    "count": 1
+  }
+}

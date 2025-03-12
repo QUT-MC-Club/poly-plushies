@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "P#P",
+    " # "
+  ],
+  "key": {
+    "#":  "minecraft:blue_wool",
+    "P":  "minecraft:phantom_membrane"
+  },
+  "result": {
+    "id": "plushies:phantom_plushie",
+    "count": 1
+  }
+}

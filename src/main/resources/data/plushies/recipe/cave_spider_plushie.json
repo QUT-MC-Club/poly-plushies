@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#F#",
+    "BBB",
+    "B B"
+  ],
+  "key": {
+    "#":  "minecraft:red_wool",
+    "F":  "minecraft:fermented_spider_eye",
+    "B":  "minecraft:black_wool"
+  },
+  "result": {
+    "id": "plushies:cave_spider_plushie",
+    "count": 1
+  }
+}

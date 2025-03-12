@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S ",
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#":  "minecraft:white_wool",
+    "S":  "minecraft:saddle"
+  },
+  "result": {
+    "id": "plushies:horse_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BYB",
+    "YYY"
+  ],
+  "key": {
+    "#":  "minecraft:honeycomb",
+    "B":  "minecraft:black_wool",
+    "Y":  "minecraft:yellow_wool"
+  },
+  "result": {
+    "id": "plushies:bee_plushie",
+    "count": 1
+  }
+}

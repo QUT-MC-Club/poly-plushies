@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "BPB",
+    "RBR"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "B":  "minecraft:brown_wool",
+    "P":  "minecraft:pink_wool",
+    "R":  "minecraft:rabbit_foot"
+  },
+  "result": {
+    "id": "plushies:brown_rabbit_plushie",
+    "count": 1
+  }
+}

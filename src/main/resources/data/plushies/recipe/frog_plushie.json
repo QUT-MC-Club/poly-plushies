@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#O#",
+    "OLO",
+    "S S"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "O":  "minecraft:orange_wool",
+    "L":  "minecraft:lily_pad",
+    "S":  "minecraft:slime_ball"
+  },
+  "result": {
+    "id": "plushies:frog_plushie",
+    "count": 1
+  }
+}

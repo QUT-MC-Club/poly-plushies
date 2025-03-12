@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "#TB",
+    "#W#"
+  ],
+  "key": {
+    "#":  "minecraft:yellow_wool",
+    "W":  "minecraft:white_wool",
+    "T":  "minecraft:tropical_fish",
+    "B":  "minecraft:black_wool"
+  },
+  "result": {
+    "id": "plushies:small_tropical_fish_plushie",
+    "count": 1
+  }
+}

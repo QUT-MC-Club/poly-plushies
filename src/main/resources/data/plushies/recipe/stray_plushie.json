@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "WPW",
+    " W "
+  ],
+  "key": {
+    "#":  "minecraft:skeleton_skull",
+    "W":  "minecraft:white_wool",
+    "P":  "minecraft:packed_ice"
+  },
+  "result": {
+    "id": "plushies:stray_plushie",
+    "count": 1
+  }
+}

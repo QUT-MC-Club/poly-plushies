@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "RRR",
+    " R "
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "L":  "minecraft:light_gray_wool",
+    "R":  "minecraft:red_wool"
+  },
+  "result": {
+    "id": "plushies:parrot_plushie",
+    "count": 1
+  }
+}

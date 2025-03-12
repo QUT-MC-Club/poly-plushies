@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "RSR",
+    "RWR"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "R":  "minecraft:red_wool",
+    "S":  "minecraft:salmon",
+    "W":  "minecraft:white_wool"
+  },
+  "result": {
+    "id": "plushies:salmon_plushie",
+    "count": 1
+  }
+}

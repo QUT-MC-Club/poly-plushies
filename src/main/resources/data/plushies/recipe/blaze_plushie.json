@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "/#/",
+    " / "
+  ],
+  "key": {
+    "#":  "minecraft:yellow_wool",
+    "/":  "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "plushies:blaze_plushie",
+    "count": 1
+  }
+}

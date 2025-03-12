@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "#W#",
+    "###"
+  ],
+  "key": {
+    "#":  "minecraft:magenta_wool",
+    "S":  "minecraft:shulker_shell",
+    "W":  "minecraft:white_wool"
+  },
+  "result": {
+    "id": "plushies:shulker_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G#",
+    "GGG",
+    "BRB"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "G":  "minecraft:green_wool",
+    "B":  "minecraft:blue_wool",
+    "R":  "minecraft:rotten_flesh"
+  },
+  "result": {
+    "id": "plushies:zombie_plushie",
+    "count": 1
+  }
+}

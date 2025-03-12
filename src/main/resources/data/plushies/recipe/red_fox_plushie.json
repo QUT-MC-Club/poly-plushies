@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "B#B",
+    "###"
+  ],
+  "key": {
+    "#":  "minecraft:orange_wool",
+    "B":  "minecraft:black_wool"
+  },
+  "result": {
+    "id": "plushies:red_fox_plushie",
+    "count": 1
+  }
+}

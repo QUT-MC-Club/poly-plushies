@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "WPW",
+    "RIR"
+  ],
+  "key": {
+    "#":  "minecraft:red_wool",
+    "W":  "minecraft:white_wool",
+    "P":  "minecraft:pink_wool",
+    "R":  "minecraft:rabbit_foot",
+    "I":  "minecraft:iron_sword"
+  },
+  "result": {
+    "id": "plushies:killer_bunny_plushie",
+    "count": 1
+  }
+}

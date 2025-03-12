@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "BBB",
+    "YRY"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "B":  "minecraft:brown_wool",
+    "Y":  "minecraft:yellow_wool",
+    "R":  "minecraft:rotten_flesh"
+  },
+  "result": {
+    "id": "plushies:husk_plushie",
+    "count": 1
+  }
+}

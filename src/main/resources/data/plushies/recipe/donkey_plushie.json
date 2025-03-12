@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#SC",
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#":  "minecraft:light_gray_wool",
+    "S":  "minecraft:saddle",
+    "C":  "minecraft:chest"
+  },
+  "result": {
+    "id": "plushies:donkey_plushie",
+    "count": 1
+  }
+}

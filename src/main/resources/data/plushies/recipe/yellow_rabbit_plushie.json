@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "YPY",
+    "RYR"
+  ],
+  "key": {
+    "#":  "minecraft:brown_wool",
+    "Y":  "minecraft:yellow_wool",
+    "P":  "minecraft:pink_wool",
+    "R":  "minecraft:rabbit_foot"
+  },
+  "result": {
+    "id": "plushies:yellow_rabbit_plushie",
+    "count": 1
+  }
+}

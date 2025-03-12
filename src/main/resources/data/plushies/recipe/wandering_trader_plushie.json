@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "BEB",
+    "BgB"
+  ],
+  "key": {
+    "#":  "minecraft:lime_wool",
+    "Y":  "minecraft:yellow_wool",
+    "B":  "minecraft:blue_wool",
+    "E":  "minecraft:emerald",
+    "g":  "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "plushies:wandering_trader_plushie",
+    "count": 1
+  }
+}

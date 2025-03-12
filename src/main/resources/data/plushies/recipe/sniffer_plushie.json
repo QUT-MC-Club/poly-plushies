@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#A#",
+    "RRR",
+    "RSR"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "A":  "minecraft:azalea",
+    "R":  "minecraft:red_wool",
+    "S":  "minecraft:spore_blossom"
+  },
+  "result": {
+    "id": "plushies:sniffer_plushie",
+    "count": 1
+  }
+}

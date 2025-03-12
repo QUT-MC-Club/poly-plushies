@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "RRR",
+    "R R"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "R":  "minecraft:red_wool"
+  },
+  "result": {
+    "id": "plushies:strider_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "YYY",
+    "YSY"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "Y":  "minecraft:yellow_wool",
+    "S":  "minecraft:saddle"
+  },
+  "result": {
+    "id": "plushies:camel_plushie",
+    "count": 1
+  }
+}

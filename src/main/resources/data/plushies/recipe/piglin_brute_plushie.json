@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #G",
+    "PCP",
+    " P "
+  ],
+  "key": {
+    "#":  "minecraft:piglin_head",
+    "G":  "minecraft:golden_axe",
+    "P":  "minecraft:pink_wool",
+    "C":  "minecraft:chain"
+  },
+  "result": {
+    "id": "plushies:piglin_brute_plushie",
+    "count": 1
+  }
+}

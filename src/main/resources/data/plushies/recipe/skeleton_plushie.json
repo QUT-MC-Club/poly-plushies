@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "WWW",
+    " W "
+  ],
+  "key": {
+    "#":  "minecraft:skeleton_skull",
+    "W":  "minecraft:white_wool"
+  },
+  "result": {
+    "id": "plushies:skeleton_plushie",
+    "count": 1
+  }
+}

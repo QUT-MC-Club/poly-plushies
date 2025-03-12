@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "WIW",
+    " W "
+  ],
+  "key": {
+    "#":  "minecraft:carved_pumpkin",
+    "W":  "minecraft:white_wool",
+    "I":  "minecraft:iron_block"
+  },
+  "result": {
+    "id": "plushies:iron_golem_plushie",
+    "count": 1
+  }
+}

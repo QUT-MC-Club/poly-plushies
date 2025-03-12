@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "BBB",
+    "BIB"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "B":  "minecraft:blue_wool",
+    "I":  "minecraft:ink_sac"
+  },
+  "result": {
+    "id": "plushies:squid_plushie",
+    "count": 1
+  }
+}

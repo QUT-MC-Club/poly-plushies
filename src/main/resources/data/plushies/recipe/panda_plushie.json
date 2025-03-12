@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BWB",
+    " W "
+  ],
+  "key": {
+    "#":  "minecraft:bamboo",
+    "B":  "minecraft:black_wool",
+    "W":  "minecraft:white_wool"
+  },
+  "result": {
+    "id": "plushies:panda_plushie",
+    "count": 1
+  }
+}

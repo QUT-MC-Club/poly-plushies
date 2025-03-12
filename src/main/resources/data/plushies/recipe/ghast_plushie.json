@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#F#",
+    "###"
+  ],
+  "key": {
+    "#":  "minecraft:white_wool",
+    "F":  "minecraft:fire_charge"
+  },
+  "result": {
+    "id": "plushies:ghast_plushie",
+    "count": 1
+  }
+}

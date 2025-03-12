@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BBB",
+    " B "
+  ],
+  "key": {
+    "#":  "minecraft:dragon_head",
+    "B":  "minecraft:black_wool"
+  },
+  "result": {
+    "id": "plushies:dragon_plushie",
+    "count": 1
+  }
+}

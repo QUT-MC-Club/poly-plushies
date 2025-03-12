@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "BEB",
+    "BBB"
+  ],
+  "key": {
+    "#":  "minecraft:lime_wool",
+    "Y":  "minecraft:yellow_wool",
+    "B":  "minecraft:brown_wool",
+    "E":  "minecraft:emerald"
+  },
+  "result": {
+    "id": "plushies:villager_plushie",
+    "count": 1
+  }
+}

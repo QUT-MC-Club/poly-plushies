@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#WL",
+    "PRG",
+    "P P"
+  ],
+  "key": {
+    "#":  "minecraft:bone_block",
+    "W":  "minecraft:white_wool",
+    "L":  "minecraft:leather",
+    "P":  "minecraft:pink_wool",
+    "R":  "minecraft:rotten_flesh",
+    "G":  "minecraft:green_wool"
+  },
+  "result": {
+    "id": "plushies:zoglin_plushie",
+    "count": 1
+  }
+}

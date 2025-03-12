@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BGB",
+    " G "
+  ],
+  "key": {
+    "#":  "minecraft:turtle_scute",
+    "B":  "minecraft:black_wool",
+    "G":  "minecraft:green_wool"
+  },
+  "result": {
+    "id": "plushies:turtle_plushie",
+    "count": 1
+  }
+}

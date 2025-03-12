@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#",
+    "BDB",
+    " B "
+  ],
+  "key": {
+    "#":  "minecraft:cyan_wool",
+    "E":  "minecraft:echo_shard",
+    "B":  "minecraft:black_wool",
+    "D":  "minecraft:sculk"
+  },
+  "result": {
+    "id": "plushies:warden_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "LLL",
+        "BIB"
+    ],
+    "key": {
+        "#":  "minecraft:light_blue_wool",
+        "L":  "minecraft:light_gray_wool",
+        "B":  "minecraft:brown_wool",
+        "I":  "minecraft:iron_axe"
+    },
+    "result": {
+        "id": "plushies:vindicator_plushie",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "PPP",
+    "PNP"
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "P":  "minecraft:purple_wool",
+    "N":  "minecraft:nether_wart"
+  },
+  "result": {
+    "id": "plushies:witch_plushie",
+    "count": 1
+  }
+}

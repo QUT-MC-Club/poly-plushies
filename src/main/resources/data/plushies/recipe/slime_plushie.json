@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "GG",
+    "GG"
+  ],
+  "key": {
+    "#":  "minecraft:slime_ball",
+    "G":  "minecraft:green_wool"
+  },
+  "result": {
+    "id": "plushies:slime_plushie",
+    "count": 1
+  }
+}

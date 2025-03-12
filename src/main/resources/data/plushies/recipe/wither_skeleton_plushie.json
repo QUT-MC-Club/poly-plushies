@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BBB",
+    " B "
+  ],
+  "key": {
+    "#":  "minecraft:wither_skeleton_skull",
+    "B":  "minecraft:black_wool"
+  },
+  "result": {
+    "id": "plushies:wither_skeleton_plushie",
+    "count": 1
+  }
+}

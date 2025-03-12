@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BPB",
+    "#P#"
+  ],
+  "key": {
+    "#":  "minecraft:pink_dye",
+    "B":  "minecraft:black_wool",
+    "P":  "minecraft:pink_wool"
+  },
+  "result": {
+    "id": "plushies:axolotl_plushie",
+    "count": 1
+  }
+}

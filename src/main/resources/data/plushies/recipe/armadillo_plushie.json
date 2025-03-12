@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#A#",
+    "APA",
+    "#A#"
+  ],
+  "key": {
+    "#":  "minecraft:brown_wool",
+    "A":  "minecraft:armadillo_scute",
+    "P":  "minecraft:pink_wool"
+  },
+  "result": {
+    "id": "plushies:armadillo_plushie",
+    "count": 1
+  }
+}

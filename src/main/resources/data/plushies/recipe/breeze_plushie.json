@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "BWB",
+    " B "
+  ],
+  "key": {
+    "#":  "minecraft:black_wool",
+    "L":  "minecraft:light_blue_wool",
+    "B":  "minecraft:breeze_rod",
+    "W":  "minecraft:white_wool"
+  },
+  "result": {
+    "id": "plushies:breeze_plushie",
+    "count": 1
+  }
+}

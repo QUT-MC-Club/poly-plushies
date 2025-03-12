@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "B#B",
+    " S "
+  ],
+  "key": {
+    "#":  "minecraft:cyan_wool",
+    "B":  "minecraft:black_wool",
+    "S":  "minecraft:seagrass"
+  },
+  "result": {
+    "id": "plushies:dolphin_plushie",
+    "count": 1
+  }
+}
