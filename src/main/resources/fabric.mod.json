@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "poly-plushies",
+	"id": "plushies",
 	"version": "${version}",
 	"name": "Poly Plushies",
 	"description": "This is an example description! Tell everyone what your mod is about!",
