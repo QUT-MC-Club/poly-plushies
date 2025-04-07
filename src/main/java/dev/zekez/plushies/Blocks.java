@@ -318,7 +318,11 @@ public class Blocks {
         RegistryKey<Block> blockKey = RegistryKey.of(RegistryKeys.BLOCK, id);
         RegistryKey<Item> itemKey = RegistryKey.of(RegistryKeys.ITEM, id);
         Block block = Registry.register(Registries.BLOCK, id, new PlushieBlock(AbstractBlock.Settings.copy(net.minecraft.block.Blocks.WHITE_WOOL).registryKey(blockKey)));
-        Item item = Registry.register(Registries.ITEM, id, new PlushieItem(block, new Item.Settings().registryKey(itemKey).useBlockPrefixedTranslationKey().maxCount(1).attributeModifiers(PlushieItem.createAttributeModifiers()).equipmentSlot((entity, stack) -> EquipmentSlot.HEAD).rarity(rarity)));
+        Item item = Registry.register(Registries.ITEM, id, new PlushieItem(block, new Item.Settings().registryKey(itemKey)
+                .useBlockPrefixedTranslationKey()
+                .maxCount(1)
+                .attributeModifiers(PlushieItem.createAttributeModifiers())
+                .equippableUnswappable(EquipmentSlot.HEAD).rarity(rarity)));
         BLOCKS.add(block);
         ITEMS.add(item);
         return block;
