@@ -9,8 +9,8 @@ import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.HorizontalFacingBlock;
+import net.minecraft.item.ItemDisplayContext;
 import net.minecraft.item.ItemPlacementContext;
-import net.minecraft.item.ModelTransformationMode;
 import net.minecraft.server.world.ServerWorld;
 import net.minecraft.state.StateManager;
 import net.minecraft.util.math.BlockPos;
@@ -64,7 +64,7 @@ public class PlushieBlock extends HorizontalFacingBlock implements FactoryBlock 
         public Model(BlockState state) {
             this.main = ItemDisplayElementUtil.createSimple(state.getBlock().asItem());
             this.main.setDisplaySize(1, 1);
-            this.main.setModelTransformation(ModelTransformationMode.NONE);
+            this.main.setItemDisplayContext(ItemDisplayContext.NONE);
             var yaw = state.get(FACING).getPositiveHorizontalDegrees();
             this.main.setYaw(yaw);
             this.addElement(this.main);
